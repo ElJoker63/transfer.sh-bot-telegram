@@ -1,0 +1,22 @@
+{
+
+    "name": "Transfer.sh Uploader",
+    "description": "Telegram bot to upload files to transfer.sh remotely Also Host on Heroku Eassyly",
+    "keywords": ["uploader","python"],
+    "repository": "",
+    "env": {
+      "BOT_TOKEN": {
+        "description": "Your bot token, as a string.",
+        "value": ""
+      },
+      "API_ID": {
+        "description": "Get this value from https://my.telegram.org",
+        "value": ""
+      },
+      "API_HASH": {  
+        "description": "Get this value from https://my.telegram.org",
+          "value": ""  
+      }  
+    }
+  }
+  
