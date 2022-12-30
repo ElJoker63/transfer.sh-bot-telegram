@@ -28,7 +28,7 @@
 
 ## Creator
 
-- [ElJoker63](https://github.com/Achu2234/HentaiMangaBot)
+- [ElJoker63](https://github.com/ElJoker63/transfer.sh-bot-telegram)
 
 Start Repo Deploy & Enjoy !!
 
