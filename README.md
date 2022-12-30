@@ -12,7 +12,9 @@
 
 
 `API_ID` You Can Get it from [here](https://my.telegram.org/) .
+
 `API_HASH` You Can Get it form [here](https://my.telegram.org/) .
+
 `BOT_TOKEN` Search [@BotFather](https://t.me/botfather) in telegram.
 
 ## Deployment 
